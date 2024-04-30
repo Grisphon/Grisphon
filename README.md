@@ -16,3 +16,6 @@ Je possede de solides connaissances dans les langages suivants :
 
 ### Si vous souhaitez voir mes projets...
 J'ai choisi d'épingler certains projets que je considère comme réussis sur ce profil GitHub. Allez y jeter un coup d'œil !
+
+###  Mes objectifs futurs...
+Actuellement, je suis en train de développer un intérêt pour les systèmes d'exploitation, notamment Linux. Ainsi, j'apprends chaque jour à me servir de nouveaux outils. Qui sait... peut-être qu'un jour je pourrai partager avec vous mes avancées sur ce profil.
