@@ -11,6 +11,7 @@ Je possede de solides connaissances dans les langages suivants :
   <li>HTML</li>
   <li>CSS</li>
   <li>Javascript</li>
+  <li>SQL</li>
   <li>Arduino</li>
 </ul>
 
