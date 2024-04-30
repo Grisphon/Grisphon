@@ -1,16 +1,18 @@
-### Hi there 👋
+## Salut, c'est moi Quentin !
 
-<!--
-**Grisphon/Grisphon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Qui suis-je ?
+Actuellement etudiant en premiere annee d'informatique, je suis un passionne de nouvelles technologies. Plutot curieux, je suis toujours motive a travailler sur de nouveaux projets.
 
-Here are some ideas to get you started:
+### Et actuellement ?
+Je possede de solides connaissances dans les langages suivants :
+<ul>
+  <li>C</li>
+  <li>PHP</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Javascript</li>
+  <li>Arduino</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Si vous souhaitez voir mes projets...
+J'ai choisi d'épingler certains projets que je considère comme réussis sur ce profil GitHub. Allez y jeter un coup d'œil !
