@@ -13,6 +13,7 @@ Je possede de solides connaissances dans les langages suivants :
   <li>Javascript</li>
   <li>SQL</li>
   <li>Arduino</li>
+  <li>PHP / Symfony</li>
 </ul>
 
 ### Si vous souhaitez voir mes projets...
@@ -20,7 +21,3 @@ J'ai choisi d'épingler certains projets que je considère comme réussis sur ce
 
 ###  Mes objectifs futurs...
 Actuellement, je suis en train de développer un intérêt pour les systèmes d'exploitation, notamment Linux. Ainsi, j'apprends chaque jour à me servir de nouveaux outils. Qui sait... peut-être qu'un jour je pourrai partager avec vous mes avancées sur ce profil.
-
-### Me contacter :
-
-![mon_cv](cv.png)
